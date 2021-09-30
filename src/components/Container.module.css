@@ -1,0 +1,25 @@
+.grid {
+	display: grid;
+	padding-top: 4rem;
+	/* justify-content: center; */
+	align-items: start;
+	row-gap: 3rem;
+	/* grid-template-rows: 1fr 1fr 1fr; */
+	width: 40vw;
+	justify-items: center;
+	margin: auto;
+	place-items: center;
+}
+.text_center {
+	text-align: center;
+	padding: 5px;
+}
+.scanner {
+	width: 4vw;
+}
+.imageContainer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
