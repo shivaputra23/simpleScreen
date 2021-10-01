@@ -24,7 +24,7 @@ function Container() {
           <Button
             variant="contained"
             startIcon={<Save style={{ color: "white" }} />}
-            style={{ backgroundColor: "red", height: "3rem" }}
+            style={{ backgroundColor: "red", height: "3rem", color: "white" }}
           >
             Select Images
           </Button>
